@@ -1,0 +1,10 @@
+2026-04-16 19:57:31,282 - INFO - Order Request: BTCUSDT, BUY, MARKET, 0.01, None
+2026-04-16 19:57:31,283 - INFO - Order Response: {'orderId': 13039984512, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJea47326f98dac0e49e6697', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776349651190}
+2026-04-16 19:57:50,659 - INFO - Order Request: BTCUSDT, BUY, MARKET, 0.01, None
+2026-04-16 19:57:50,660 - INFO - Order Response: {'orderId': 13039985300, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd5d11afa7157738959d052', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776349670569}
+2026-04-16 20:14:26,183 | INFO | Order placed | Symbol=BTCUSDT | Side=BUY | Type=MARKET | Qty=0.01
+2026-04-16 20:14:26,184 | INFO | Response | OrderID=13040014380 | Status=NEW | ExecutedQty=0.0000
+2026-04-16 20:16:07,079 | INFO | Order placed | Symbol=BTCUSDT | Side=BUY | Type=MARKET | Qty=0.01
+2026-04-16 20:16:07,079 | INFO | Response | OrderID=13040016853 | Status=NEW | ExecutedQty=0.0000
+2026-04-16 20:19:39,239 | INFO | Order placed | Symbol=BTCUSDT | Side=BUY | Type=MARKET | Qty=0.01
+2026-04-16 20:19:39,239 | INFO | Response | OrderID=13040022362 | Status=NEW | ExecutedQty=0.0000
